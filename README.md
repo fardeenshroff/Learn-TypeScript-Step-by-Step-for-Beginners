@@ -32,8 +32,6 @@ Understand the role of TypeScript in modern web development, its advantages over
 - [TypeScript Features](https://www.typescriptlang.org/features)
 - [Benefits of TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
-### Downloads
-[Download Chapter 1: Introduction to TypeScript](#)
 
 ### Exercise:
 Install TypeScript and write your first TypeScript program to print "Hello, TypeScript!" to the console.
@@ -51,8 +49,6 @@ Learn how to install and configure the necessary tools for TypeScript developmen
 - [Setting Up Your IDE (VS Code recommended)](https://code.visualstudio.com/)
 - [Running TypeScript Code with `tsc`](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
-### Downloads
-[Download Chapter 2: Setting Up Your Environment](#)
 
 ### Exercise:
 Install Node.js, npm, and TypeScript. Set up an IDE and run your first `.ts` file.
@@ -70,8 +66,6 @@ Learn about the basic structure of TypeScript, including variables, data types, 
 - [Primitive Types: `string`, `number`, `boolean`](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 - [Arrays and Tuples](https://www.typescriptlang.org/docs/handbook/2/objects.html)
 
-### Downloads
-[Download Chapter 3: TypeScript Basics](#)
 
 ### Exercise:
 Create a TypeScript file that uses variables of various types and outputs them to the console.
@@ -89,8 +83,6 @@ Explore how TypeScript uses types and interfaces to enhance your code's safety a
 - [Type Aliases](https://www.typescriptlang.org/docs/handbook/2/objects.html)
 - [Interfaces in TypeScript](https://www.typescriptlang.org/docs/handbook/interfaces.html)
 
-### Downloads
-[Download Chapter 4: TypeScript Types and Interfaces](#)
 
 ### Exercise:
 Define a few custom types and interfaces and use them in your TypeScript code.
@@ -108,8 +100,6 @@ Learn how to define and use functions in TypeScript, including optional and defa
 - [Arrow Functions](https://www.typescriptlang.org/docs/handbook/arrow-functions.html)
 - [Rest Parameters](https://www.typescriptlang.org/docs/handbook/functions.html)
 
-### Downloads
-[Download Chapter 5: Functions in TypeScript](#)
 
 ### Exercise:
 Create a function that calculates the sum of all elements in an array using both default and optional parameters.
@@ -127,8 +117,6 @@ Dive into TypeScript's support for Object-Oriented Programming concepts like cla
 - [Encapsulation and Access Modifiers](https://www.typescriptlang.org/docs/handbook/classes.html)
 - [Polymorphism and Method Overriding](https://www.typescriptlang.org/docs/handbook/classes.html)
 
-### Downloads
-[Download Chapter 6: Classes and Object-Oriented Programming](#)
 
 ### Exercise:
 Create a class representing a `Person` with properties for their name and age, and an instance method for introducing themself.
@@ -146,8 +134,6 @@ Learn about advanced types in TypeScript, such as generics and type inference, t
 - [Mapped Types](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html)
 - [Conditional Types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html)
 
-### Downloads
-[Download Chapter 7: Advanced Types in TypeScript](#)
 
 ### Exercise:
 Create a generic function to swap the values of two variables of any type.
@@ -165,8 +151,6 @@ Work with arrays, tuples, and other data structures in TypeScript.
 - [Set and Map Collections](https://www.typescriptlang.org/docs/handbook/2/collections.html)
 - [Readonly Arrays](https://www.typescriptlang.org/docs/handbook/advanced-types.html)
 
-### Downloads
-[Download Chapter 8: Working with Arrays and Collections](#)
 
 ### Exercise:
 Write a function to remove duplicates from an array and return the modified array.
@@ -184,8 +168,6 @@ Learn how to structure your TypeScript application with modules and namespaces.
 - [Namespaces](https://www.typescriptlang.org/docs/handbook/namespaces.html)
 - [Re-exporting Modules](https://www.typescriptlang.org/docs/handbook/modules.html)
 
-### Downloads
-[Download Chapter 9: Modules and Namespaces](#)
 
 ### Exercise:
 Create a module for a simple mathematical library and export the methods for addition and subtraction.
@@ -203,8 +185,6 @@ Understand how TypeScript allows you to write flexible and reusable functions an
 - [Generic Constraints](https://www.typescriptlang.org/docs/handbook/generics.html)
 - [Using Generics with Functions](https://www.typescriptlang.org/docs/handbook/generics.html)
 
-### Downloads
-[Download Chapter 10: Generics in TypeScript](#)
 
 ### Exercise:
 Create a generic class `Box<T>` that holds a value of type `T` and has methods to get and set the value.
@@ -221,8 +201,6 @@ Understand how TypeScript works with asynchronous code, Promises, `async`/`await
 - [Async Functions and `await`](https://www.typescriptlang.org/docs/handbook/async-await.html)
 - [Error Handling in Asynchronous Code](https://www.typescriptlang.org/docs/handbook/async-await.html)
 
-### Downloads
-[Download Chapter 11: TypeScript and Asynchronous Programming](#)
 
 ### Exercise:
 Write an asynchronous function that fetches data from an API and logs the result.
@@ -239,8 +217,6 @@ Learn how to integrate TypeScript with a Node.js application for backend develop
 - [Using `ts-node` for Running TypeScript Code](https://www.npmjs.com/package/ts-node)
 - [Creating and Exporting Modules in TypeScript](https://nodejs.dev/en/learn/typescript-and-nodejs/)
 
-### Downloads
-[Download Chapter 12: Using TypeScript with Node.js](#)
 
 ### Exercise:
 Set up a basic Express server with TypeScript.
@@ -256,8 +232,6 @@ Integrate TypeScript into popular frameworks such as React and Angular to build 
 - [Using TypeScript with React](https://reactjs.org/docs/typescript.html)
 - [Using TypeScript with Angular](https://angular.io/guide/typescript-configuration)
 
-### Downloads
-[Download Chapter 13: Using TypeScript with Frameworks](#)
 
 ### Exercise:
 Create a basic React component in TypeScript that accepts props and manages state.
@@ -274,8 +248,6 @@ Learn how to configure TypeScript for your project using `tsconfig.json` and oth
 - [Using TSLint for Static Code Analysis](https://palantir.github.io/tslint/)
 - [Debugging TypeScript Code](https://www.typescriptlang.org/docs/handbook/debugging.html)
 
-### Downloads
-[Download Chapter 14: TypeScript Configuration and Tooling](#)
 
 ### Exercise:
 Create a project with `tsconfig.json` and integrate it with a build tool (e.g., Webpack).
@@ -293,3 +265,17 @@ This repository is licensed under the [MIT License](LICENSE). See the LICENSE fi
 ---
 
 Happy Coding with TypeScript! 🚀
+
+---
+
+## Disclaimer
+
+The programming languages, resources, downloads, and links provided in this repository are the property of their respective owners, creators, and contributors. This repository is intended solely for educational purposes to help learners gain an understanding of each language, how to download and install the required tools, and how to start programming effectively.
+
+The content shared is purely for learning and informational purposes and is not intended to infringe on any copyrights or intellectual property rights. If you are the rightful owner of any resource or content and wish to have it removed, please contact me directly, and I will promptly take the necessary actions to comply with your request.
+
+All credit for the resources, libraries, and tools mentioned in this repository belongs to their respective authors.
+
+
+---
+
